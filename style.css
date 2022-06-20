@@ -147,12 +147,12 @@ body{
 }
 
 .app-download:nth-child(1){
-	background-image: url('https://github.com/idfgabe/instagram-login-screen/blob/main/assets/apple-button.png');
+	background-image: url('https://raw.githubusercontent.com/idfgabe/instagram-login-screen/main/assets/apple-button.png');
 	border-radius: 10%;
 }
 
 .app-download:nth-child(2){
-	background-image: url('https://github.com/idfgabe/instagram-login-screen/blob/main/assets/googleplay-button.png');
+	background-image: url('https://raw.githubusercontent.com/idfgabe/instagram-login-screen/main/assets/googleplay-button.png');
 }
 
 /* media queries */
